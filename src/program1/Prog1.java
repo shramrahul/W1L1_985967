@@ -17,3 +17,10 @@ public class Prog1 {
 
     }
 }
+
+/*    output
+the random number generated is 6
+961.3891935753043
+the random number generated is 13
+3159.04819858571
+....*/

@@ -16,3 +16,7 @@ public class Prog2 {
         System.out.println(Math.round(sum));
     }
 }
+/*output
+14
+15
+*/
